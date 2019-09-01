@@ -84,9 +84,9 @@ DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.mysql',
         'NAME': 'pokemon_mall',
-        'USER': 'root',
+        'USER': 'admin',
         'PASSWORD': 'Dkffkels12!',
-        'HOST': 'pokemon-mall.cr4xjcv16cgx.us-east-1.rds.amazonaws.com',
+        'HOST': 'pokemon-db.cgunxinutzpp.ap-northeast-2.rds.amazonaws.com',
         'PORT': '3306',
     }
 }
